@@ -1,7 +1,7 @@
 // Working assemblies after patch 4.16
 // LeagueSharp (first push) 09/10/2014
 Evade
-UltimateCarry -- bugsplat reports with lucian
+UltimateCarry -- bugsplat reports with lucian & other champs -- try disabling packets and let me know how it goes
 PerfectWard
 BaseUlt2
 TongHop
