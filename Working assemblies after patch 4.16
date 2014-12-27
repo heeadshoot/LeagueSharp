@@ -4,8 +4,17 @@
 Just like we do after every unstable release, here's a list of working/not working assemblies, feel free to create pull reqests.
 
 
+// working
 
-// Bugsplatting scripts
+- Evade
+- Tracker
+- Marksman
+- Support AIO
+- Ryze
+- Syndra
+
+
+// Bugsplatting assemblies
 
 
 Champs with many skillshots bugsplat alot
