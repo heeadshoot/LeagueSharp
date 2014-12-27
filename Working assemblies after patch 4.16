@@ -1,53 +1,12 @@
-// Working assemblies after patch 4.16
-// LeagueSharp (first push) 09/10/2014
+// Working assemblies for L# BETA BUILD 
+// LeagueSharp (first push) 26/12/2014
 
--Marksman (Temporary) http://puu.sh/buqn9/b1258a85ea.rar "when the stable L# version is released don't use this file.
-continue to use the original Marksman" Any script that uses the orbwalker may crash near minions
-this crashes with Jinx skillshots aswell, be careful
+Just like we do after every unstable release, here's a list of working/not working assemblies, feel free to create pull reqests.
 
--Evade // may crash while evading
--hi im gosu 
--PerfectWard
--BaseUlt2
--TongHop
--Irelia xQx
--Swain xQx
--Vi xQx
--Katarina TC-Crew 
--TriKatarina
--Fisherman Fizz
--AhriSharp
--Chewy's Irelia
--Last Hit Marker
--LSRecallTimers 
--Cassio (doesnt cast E unless to KS + not farming,lane clear)
--Xerath (not casting "Q" and "R")
--Nidalee madk
--Olaf
--yol0Riven
--kPoppy2
--TryndSharp (not casting)
--Skin Changer
--MasterActivator
 
 
 // Bugsplatting scripts
--marksman 
--ultimate carry bugsplatting randomly - some say deactiviting packet cast pervents bugsplatting (USE IT AT YOUR OWN RISK)
--SFKatarina -- bugsplatt right after injection
--Nasus
--Nasus the Dog 
--Support
--Blitzcrank
--Syndra
--support.exe
--Ryze
--Mechanics
--Jax
--kKayle
--Irelia
--Orianna
+
 
 Champs with many skillshots bugsplat alot
-Yasuo scripts may not load
-RivenSharp may not load
+
